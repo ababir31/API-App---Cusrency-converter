@@ -1,7 +1,8 @@
 # 💱 Currency Converter Web App
 
-A simple, clean, and responsive currency converter built using **HTML**, **CSS**, and **JavaScript**.  
-It fetches real-time exchange rates using [Fawaz Ahmed's Currency API](https://github.com/fawazahmed0/currency-api) and allows users to convert between over 150 currencies instantly.
+A simple, clean, and responsive currency converter built using **HTML**, **CSS**, and **JavaScript**.
+
+It fetches real-time exchange rates using currency exchange API and allows users to convert between over 150 currencies instantly.
 
 > ⚡ Hosted on GitHub Pages — no backend, no frameworks, just vanilla magic.
 
@@ -30,6 +31,7 @@ It fetches real-time exchange rates using [Fawaz Ahmed's Currency API](https://g
 ---
 
 ## 📁 Folder Structure
+
 📦 currency-converter/
 
 ┣ 📄 index.html
@@ -41,7 +43,6 @@ It fetches real-time exchange rates using [Fawaz Ahmed's Currency API](https://g
 ┣ 📄 country.js
 
 ┗ 📄 README.md
-
 
 ---
 
