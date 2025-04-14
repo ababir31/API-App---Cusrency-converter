@@ -33,13 +33,9 @@ It fetches real-time exchange rates using [Fawaz Ahmed's Currency API](https://g
 📦 currency-converter/
 
 ┣ 📄 index.html
-
 ┣ 📄 style.css
-
 ┣ 📄 app.js
-
 ┣ 📄 country.js
-
 ┗ 📄 README.md
 
 
