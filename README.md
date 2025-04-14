@@ -12,7 +12,6 @@ It fetches real-time exchange rates using currency exchange API and allows users
 
 ![Curency exchange system interface](/Screenshot.png "Curency exchange system interface")
 
-
 ---
 
 ## 🧠 Features
