@@ -7,12 +7,6 @@ It fetches real-time exchange rates using [Fawaz Ahmed's Currency API](https://g
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Click here to check out the live version](https://your-github-username.github.io/currency-converter)
-
----
-
 ## 🧠 Features
 
 -   🌍 Convert between any two global currencies
@@ -30,13 +24,12 @@ It fetches real-time exchange rates using [Fawaz Ahmed's Currency API](https://g
 -   HTML5
 -   CSS3
 -   JavaScript
--   [Fawaz Ahmed’s free Currency API](https://github.com/fawazahmed0/currency-api)
+-   [Fawaz Ahmed’s free Currency API](https://github.com/fawazahmed0/exchange-api)
 -   [FlagsAPI](https://flagsapi.com) for country flags
 
 ---
 
 ## 📁 Folder Structure
-
 📦 currency-converter/
 ┣ 📄 index.html
 ┣ 📄 style.css
