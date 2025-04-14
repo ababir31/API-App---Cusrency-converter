@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+    <title>Curency Converter</title>
+</head>
+
+<body>
+    <main>
+        <h1>Curency Converter</h1>
+
+        <form action="">
+            <div class="amount">
+                <p>Enter amount</p>
+                <input value="1" type="text">
+            </div>
+
+            <div class="dropdown">
+                <div class="from">
+                    <label for="">From</label>
+                    <div class="select-container">
+                        <img src="https://flagsapi.com/GB/flat/24.png">
+                        <select name="From" id="">
+                            <!-- Options fetching by JS -->
+                        </select>
+                    </div>
+                </div>
+
+                <span class="material-symbols-rounded">
+                    currency_exchange
+                </span>
+
+                <div class="to">
+                    <label for="">To</label>
+                    <div class="select-container">
+                        <img src="https://flagsapi.com/BD/flat/24.png">
+                        <select name="To" id="">
+                            <!-- Options fetching by JS -->
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="msg">1 USD = 120 BDT</div>
+            <button>Get Excgange Rate</button>
+        </form>
+    </main>
+
+    <script src="/country.js"></script>
+    <script src="/app.js"></script>
+</body>
+
+</html>
