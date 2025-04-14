@@ -53,6 +53,7 @@ It fetches real-time exchange rates using [Fawaz Ahmed's Currency API](https://g
 ## 🙌 Credits
 
 Currency API by [@fawazahmed0](https://github.com/fawazahmed0/exchange-api)
+
 Flag icons from [FlagsAPI](https://flagsapi.com/)
 
 ---
