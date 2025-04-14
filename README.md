@@ -31,6 +31,7 @@ It fetches real-time exchange rates using [Fawaz Ahmed's Currency API](https://g
 
 ## 📁 Folder Structure
 📦 currency-converter/
+
 ┣ 📄 index.html
 
 ┣ 📄 style.css
