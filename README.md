@@ -41,13 +41,9 @@ It fetches real-time exchange rates using currency exchange API and allows users
 📦 currency-converter/
 
 ┣ 📄 index.html
-
 ┣ 📄 style.css
-
 ┣ 📄 app.js
-
 ┣ 📄 country.js
-
 ┗ 📄 README.md
 
 ---
